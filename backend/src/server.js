@@ -27,13 +27,13 @@ const PROGRAMS = {
   "sales-growth-mentorship": {
     id: "sales-growth-mentorship",
     name: "Sales Growth Mentorship",
-    amountInr: 5000,
+    amountInr: 10,
     description: "Sales Growth Mentorship Registration"
   },
   "sales-shakthi": {
     id: "sales-shakthi",
     name: "Sales Shakthi",
-    amountInr: 9999,
+    amountInr: 10,
     description: "Sales Shakthi Registration"
   }
 };
