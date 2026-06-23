@@ -24,6 +24,12 @@ const WHATSAPP_NUMBER = process.env.WHATSAPP_NUMBER || "918801028315";
 const DATA_FILE = path.join(__dirname, "data", "leads.json");
 
 const PROGRAMS = {
+  "magical-sales-bootcamp": {
+    id: "magical-sales-bootcamp",
+    name: "21 Magical Sales Online Boot Camp",
+    amountInr: 2100,
+    description: "21 Magical Sales Online Boot Camp Registration"
+  },
   "sales-growth-mentorship": {
     id: "sales-growth-mentorship",
     name: "Sales Growth Mentorship",
