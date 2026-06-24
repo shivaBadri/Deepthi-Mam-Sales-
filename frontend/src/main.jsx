@@ -7,9 +7,9 @@ import "./styles.css";
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5000";
 
 const PROGRAMS = {
-  "sales-growth-mentorship": {
-    id: "sales-growth-mentorship",
-    name: "Sales Growth Mentorship",
+  "Sales-Growth-Accelerate-Blueprint": {
+    id: "Sales-Growth-Accelerate-Blueprint",
+    name: "Sales-Growth-Accelerate-Blueprint",
     amountInr: 5000,
     tagline: "Focused mentorship to improve sales confidence, process and conversion.",
     badge: "Mentorship"
